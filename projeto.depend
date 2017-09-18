@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1493780456 source:c:\users\nsake\desktop\c\projeto\main.c
+	"estrutura.h"
+
+1493873648 c:\users\nsake\desktop\c\projeto\estrutura.h
+	<locale.h>
+	<unistd.h>
+	<ctype.h>
+	<unistd.h>
+	"string.h"
+	<stdlib.h>
+	<stdio.h>
+
+1493873094 source:c:\users\nsake\desktop\c\projeto\funcoes.c
+	"estrutura.h"
+
+1495069325 source:c:\users\sergii\desktop\projeto rs\projeto\funcoes.c
+	"estrutura.h"
+
+1495069473 c:\users\sergii\desktop\projeto rs\projeto\estrutura.h
+	<locale.h>
+	<unistd.h>
+	<ctype.h>
+	<unistd.h>
+	"string.h"
+	<stdlib.h>
+	<stdio.h>
+
+1495067745 source:c:\users\sergii\desktop\projeto rs\projeto\main.c
+	"estrutura.h"
+
+1495244057 source:c:\users\sergii\desktop\projeto rs_principal\projeto\main.c
+	"estrutura.h"
+
+1495243199 c:\users\sergii\desktop\projeto rs_principal\projeto\estrutura.h
+	<locale.h>
+	<unistd.h>
+	<ctype.h>
+	<unistd.h>
+	"string.h"
+	<stdlib.h>
+	<stdio.h>
+
+1495244205 source:c:\users\sergii\desktop\projeto rs_principal\projeto\funcoes.c
+	"estrutura.h"
+
+1495987679 source:c:\users\nsake\desktop\projeto\funcoes.c
+	"estrutura.h"
+
+1496599566 c:\users\nsake\desktop\projeto\estrutura.h
+	<ctype.h>
+	"string.h"
+	<stdlib.h>
+	<stdio.h>
+
+1496570310 source:c:\users\nsake\desktop\projeto\main.c
+	"estrutura.h"
+
+1496008092 source:c:\users\nsake\desktop\projeto\funcoes2.c
+	"estrutura.h"
+
+1496562274 source:c:\users\nsake\desktop\projeto\funcoes_aluno_exames.c
+	"estrutura.h"
+
+1496599206 source:c:\users\nsake\desktop\projeto\funcoes_auxiliares.c
+	"estrutura.h"
+
+1496569781 source:c:\users\nsake\desktop\projeto\funcoes_disciplinas.c
+	"estrutura.h"
+
+1496568948 source:c:\users\nsake\desktop\projeto\funcoes_alunos.c
+	"estrutura.h"
+
+1496571255 source:c:\users\nsake\desktop\projeto\funcoes_exames.c
+	"estrutura.h"
+
+1496095773 source:c:\users\nsake\desktop\projeto\funcoes_imrpime_fich.c
+	"estrutura.h"
+
+1496097589 source:c:\users\nsake\desktop\projeto\funcoes_extrai_fich.c
+	"estrutura.h"
+
+1496599418 source:c:\users\nsake\desktop\projeto\funcoes_exames_salas.c
+	"estrutura.h"
+
+1496621671 source:c:\users\sergii\desktop\projeto\funcoes_alunos.c
+	"estrutura.h"
+
+1496615916 c:\users\sergii\desktop\projeto\estrutura.h
+	<ctype.h>
+	"string.h"
+	<stdlib.h>
+	<stdio.h>
+
+1496622858 source:c:\users\sergii\desktop\projeto\funcoes_auxiliares.c
+	"estrutura.h"
+
+1496623418 source:c:\users\sergii\desktop\projeto\funcoes_disciplinas.c
+	"estrutura.h"
+
+1496622213 source:c:\users\sergii\desktop\projeto\funcoes_exames_salas.c
+	"estrutura.h"
+
+1496615916 source:c:\users\sergii\desktop\projeto\main.c
+	"estrutura.h"
+
+1496619724 source:c:\users\sergii\desktop\projeto\funcoes_aluno_exames.c
+	"estrutura.h"
+
+1496679812 source:c:\users\nsake\desktop\projeto_p\funcoes_aluno_exames.c
+	"estrutura.h"
+
+1496685106 c:\users\nsake\desktop\projeto_p\estrutura.h
+	<ctype.h>
+	"string.h"
+	<stdlib.h>
+	<stdio.h>
+
+1496634998 source:c:\users\nsake\desktop\projeto_p\funcoes_alunos.c
+	"estrutura.h"
+
+1496679863 source:c:\users\nsake\desktop\projeto_p\funcoes_auxiliares.c
+	"estrutura.h"
+
+1496635123 source:c:\users\nsake\desktop\projeto_p\funcoes_disciplinas.c
+	"estrutura.h"
+
+1496623523 source:c:\users\nsake\desktop\projeto_p\funcoes_exames_salas.c
+	"estrutura.h"
+
+1496679863 source:c:\users\nsake\desktop\projeto_p\main.c
+	"estrutura.h"
+
