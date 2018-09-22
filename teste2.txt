@@ -1,3 +1,0 @@
-  PID TTY           TIME CMD
- 4586 ttys001    0:00.06 /Applications/iTerm.app/Contents/MacOS/iTerm2 --server login -fp romanzhydyk
- 4588 ttys001    0:00.18 -bash
